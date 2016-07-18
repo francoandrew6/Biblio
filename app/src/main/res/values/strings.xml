@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+
+    <!-- navegacion de menus.  -->
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_action_signoff">Cerrar sesión</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+
+    <string name="nav_item_home">Inicio</string>
+    <string name="nav_item_friends">Amigos</string>
+    <string name="nav_item_notifications">Libros</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title.messages">Libros</string>
+    <string name="title.friends">Amigos</string>
+    <string name="title.home">Inicio</string>
+
+    <!-- navegacion de login  -->
+    <string name="login.info.login">Inicio de Sesión</string>
+    <string name="login.message.email">Correo electrónico</string>
+    <string name="login.message.password">Contraseña</string>
+    <string name="login.message.entrar">Iniciar sesión</string>
+    <string name="login.message.crear">Crear cuenta</string>
+
+    <string name="login.notice.message.useradded">Usuario registrado exitosamente</string>
+    <string name="login.error.message.signin">Imposible iniciar sesión %s</string>
+    <string name="login.error.message.signup">Imposible registrar nuevo usuario %s</string>
+
+    <!-- navegacion de los libros  -->
+    <string name="addcontact.message.title">Agregar contacto</string>
+    <string name="addcontact.message.add">Aceptar</string>
+    <string name="addcontact.message.cancel">Cancelar</string>
+    <string name="addcontact.message.contactadded">Contacto agregado exitosamente</string>
+    <string name="addcontact.error.message">Imposible agregar usuario no existente</string>
+
+    <string name="main.title.list">Fotos</string>
+    <string name="main.title.map">Mapa</string>
+    <string name="main.notice.upload.init">Fotografía en proceso de publicación</string>
+    <string name="main.notice.upload.complete">Fotografía publicada exitosamente</string>
+    <string name="main.error.dispatch.camera">Error al crear archivo</string>
+    <string name="main.menu.action.logout">Cerrar sesión</string>
+    <string name="main.message.picture.source">Selecciona una foto</string>
+    <string name="login.message.signin">Iniciar sesión</string>
+    <string name="login.message.signup">Crear cuenta</string>
+    <string name="photolist.message.share">Compartir</string>
+</resources>
